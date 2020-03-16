@@ -1,0 +1,135 @@
+//META{"name":"Dark Cosmic Lux","description":"Dark Cosmic Lux 8K Splashart","author":"Nobunaji","version":"1.0"} *//{}
+
+/* Background Image */
+
+.bg-h5JY_x { 
+  background-image: url(https://i.imgur.com/gZ3V5aT.jpg);
+  background-size: cover;
+}
+
+.layers-3iHuyZ {
+  background: rgba(0, 0, 0, 0.6);
+}
+
+.wrapper-1Rf91z {
+  background: transparent;
+}
+
+.scroller-2TZvBN { /* 1ère div de la 2nde div du 1er nav pour les servers */
+  background: rgba(0, 0, 0, 0.6) !important;
+}
+
+.listItem-2P_4kh:first-of-type {
+  margin-top: 10px;
+}
+
+.sidebar-2K8pFh { /* Contour de la searchbar */
+  background: transparent !important;
+}
+
+.privateChannels-1nO12o { /* Contour de la searchbar */
+  background: transparent;
+}
+
+.searchBar-6Kv8R2 {
+  background: rgba(0, 0, 0, 0.6) !important;
+}
+
+.scroller-2FKFPG { /* Liste d'ami, nav, messages Attention : nécessite les lignes d'au dessus */
+  background: transparent;
+  
+}
+
+.panels-j1Uci_ {
+  background: rgba(0, 0, 0, 0.6) !important;
+}
+
+.container-1D34oG {
+  background: rgba(0, 0, 0, 0.6) !important;
+}
+
+.container-1r6BKw {
+  background: transparent !important;
+}
+
+.chat-3bRxxu { /* Le chat */
+  background: rgba(0, 0, 0, 0.6) !important;
+}
+
+.applicationStore-1pNvnv {
+  background: rgba(0, 0, 0, 0.6) !important;
+}
+
+.container-2Rl01u {
+  background: rgba(0, 0, 0, 0.6) !important;
+}
+
+.container-PNkimc {
+  background: transparent;
+}
+
+.standardSidebarView-3F1I7i {
+  background: rgba(0, 0, 0, 0.6);
+}
+
+.layer-3QrUeG {
+  background: transparent;
+}
+
+.contentRegion-3nDuYy {
+  background: transparent;
+}
+
+. {
+  display: none;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+.scrollableContainer-2NUZem {
+  background: transparent;
+  border-radius: 0px;
+}
+
+.attachWrapper-2TRKBi {
+  border-right: 1px solid rgb(34, 34, 34);
+}
+
+.button-318s1X {
+  margin-right: 15px;
+  margin-left: 0px;
+}
+
+.scrollerWrap-2lJEkd {
+  background: transparent;
+}
+
+.nowPlayingColumn-2sl4cE {
+  background: transparent;
+}
+
+.wrapper-29NfPK {
+  background: transparent;
+}
+
+.videoWrapper-2wbLD- {
+  background: transparent;
+}
+
+.videoBackground-3AY_fu {
+  background: transparent;
+}
+
+.videoInner-3OR9J2 {
+  background: transparent;
+}
+
+.video-1FfuMD {
+  background: transparent;
+}
+
+.container-1r6BKw {
+  background: transparent;
+}
